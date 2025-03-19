@@ -1,0 +1,6 @@
+/home/friends/Documents/university-management/src/main/java/com/example/university_management_system/UniversityManagementApplication.java
+/home/friends/Documents/university-management/src/main/java/com/example/university_management_system/controller/ProfessorController.java
+/home/friends/Documents/university-management/src/main/java/com/example/university_management_system/model/Course.java
+/home/friends/Documents/university-management/src/main/java/com/example/university_management_system/model/Professor.java
+/home/friends/Documents/university-management/src/main/java/com/example/university_management_system/repository/ProfessorRepository.java
+/home/friends/Documents/university-management/src/main/java/com/example/university_management_system/service/ProfessorService.java
